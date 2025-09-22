@@ -1,16 +1,5 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nama: Luthfiah Nur Alifah
+Nim: 2309106102
+<img width="156" height="345" alt="Screenshot 2025-09-22 145443" src="https://github.com/user-attachments/assets/83d2725b-0d22-4286-941c-8a28fe5adcd3" />
+<img width="155" height="347" alt="Screenshot 2025-09-22 145517" src="https://github.com/user-attachments/assets/3dc1ec66-c16d-4efb-935a-e1101af5e5ec" />
+<img width="156" height="344" alt="Screenshot 2025-09-22 145547" src="https://github.com/user-attachments/assets/2d7789c7-1be6-4363-96c6-7d19a8527869" />
